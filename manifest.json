@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-abap-syntax",
+	"name": "ABAP Syntax Support",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin adds syntax highlighting for the ABAP language (based on codemirror-abap by larshp)",
+	"author": "BurnerPat",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
