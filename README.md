@@ -6,4 +6,4 @@ It is based on [larshp](https://github.com/larshp/)'s awesome [ABAP syntax plugi
 
 # Usage
 
-For the time being, simply run `npm run build` and copy `index.js` and `manifest.json` to a new folder `obsidian-abap-syntax` in your vault's `.vault/plugins` folder.
+For the time being, simply run `npm run build` and copy `main.js` and `manifest.json` to a new folder `obsidian-abap-syntax` in your vault's `.obsidian/plugins` folder. Reload your vault in Obsidian, then in Settings go to Community Plugins and enable the ABAP Syntax Support plugin. After that, if you begin a new code code block with "\`\`\`abap" then ABAP code inside it will be highlighted.
